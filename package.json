@@ -4,13 +4,14 @@
   "description": "Data Scientist Development Pack.",
   "publisher": "day253",
   "repository": "https://github.com/day253/data-scientist-development-pack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
-    "vscode": "^1.96.0"
+    "vscode": "^1.62.0"
   },
   "categories": [
     "Extension Packs"
   ],
+  "icon": "icon.png",
   "extensionPack": [
     "golang.go",
     "ms-azuretools.vscode-docker",

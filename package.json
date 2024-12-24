@@ -1,17 +1,33 @@
 {
   "name": "data-scientist-development-pack",
   "displayName": "Data Scientist Development Pack",
-  "description": "Data Scientist Development Pack.",
+  "description": "Popular Visual Studio Code extensions for Data Scientist",
+  "version": "0.0.3",
   "publisher": "day253",
-  "repository": "https://github.com/day253/data-scientist-development-pack",
-  "version": "0.0.2",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/day253/data-scientist-development-pack"
+  },
+  "bugs": {
+    "url": "https://github.com/day253/data-scientist-development-pack/issues"
+  },
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.62.0"
   },
+  "keywords": [
+    "cmake",
+    "cpp",
+    "docker",
+    "golang",
+    "jupyter",
+    "python",
+    "remote"
+  ],
   "categories": [
     "Extension Packs"
   ],
-  "icon": "icon.png",
   "extensionPack": [
     "golang.go",
     "ms-azuretools.vscode-docker",

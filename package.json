@@ -2,6 +2,8 @@
   "name": "data-scientist-development-pack",
   "displayName": "Data Scientist Development Pack",
   "description": "Data Scientist Development Pack.",
+  "publisher": "day253",
+  "repository": "https://github.com/day253/data-scientist-development-pack",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"

@@ -2,7 +2,7 @@
   "name": "data-scientist-development-pack",
   "displayName": "Data Scientist Development Pack",
   "description": "Popular Visual Studio Code extensions for Data Scientist",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "day253",
   "license": "MIT",
   "repository": {
@@ -31,9 +31,9 @@
     "ms-python.python",
     "ms-python.vscode-pylance",
     "ms-toolsai.datawrangler",
-    "ms-toolsai.jupyter",
     "ms-toolsai.jupyter-keymap",
     "ms-toolsai.jupyter-renderers",
+    "ms-toolsai.jupyter",
     "ms-toolsai.vscode-jupyter-cell-tags",
     "ms-toolsai.vscode-jupyter-slideshow",
     "ms-vscode-remote.remote-ssh-edit",
@@ -41,6 +41,7 @@
     "ms-vscode-remote.remote-wsl",
     "ms-vscode.remote-explorer",
     "redhat.vscode-yaml",
+    "tamasfe.even-better-toml",
     "tyriar.sort-lines"
   ]
 }

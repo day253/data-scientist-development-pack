@@ -2,7 +2,7 @@
   "name": "data-scientist-development-pack",
   "displayName": "Data Scientist Development Pack",
   "description": "Popular Visual Studio Code extensions for Data Scientist",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "day253",
   "license": "MIT",
   "repository": {
@@ -17,10 +17,6 @@
     "vscode": "^1.62.0"
   },
   "keywords": [
-    "cmake",
-    "cpp",
-    "docker",
-    "golang",
     "jupyter",
     "python",
     "remote"
@@ -29,8 +25,6 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "golang.go",
-    "ms-azuretools.vscode-docker",
     "ms-python.black-formatter",
     "ms-python.debugpy",
     "ms-python.isort",
@@ -45,11 +39,8 @@
     "ms-vscode-remote.remote-ssh-edit",
     "ms-vscode-remote.remote-ssh",
     "ms-vscode-remote.remote-wsl",
-    "ms-vscode.cmake-tools",
-    "ms-vscode.cpptools",
     "ms-vscode.remote-explorer",
     "redhat.vscode-yaml",
-    "twxs.cmake",
     "tyriar.sort-lines"
   ]
 }

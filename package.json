@@ -2,7 +2,7 @@
   "name": "data-scientist-development-pack",
   "displayName": "Data Scientist Development Pack",
   "description": "Popular Visual Studio Code extensions for Data Scientist",
-  "version": "0.0.6",
+  "version": "1.0.0",
   "publisher": "day253",
   "license": "MIT",
   "repository": {

@@ -5,6 +5,7 @@ This extension pack packages some of the most popular (and some of my favorite) 
 ## Extensions Included
 
 * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, Data Science (with Jupyter), PySpark and more.
+* [Black Formatter](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter) - Code formatting using Black.
 * [isort](https://marketplace.visualstudio.com/items?itemName=ms-python.isort) - Import sorting using isort.
 * [Data Wrangler](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler) - Data cleaning and preparation tool.
 * [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - Jupyter notebook support.

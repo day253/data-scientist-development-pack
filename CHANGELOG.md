@@ -1,3 +1,8 @@
+## [1.0.2] - 2024-12-26
+
+### Added
+- Black Formatter extension for code formatting.
+
 ## [1.0.1] - 2024-12-26
 
 ### Changed

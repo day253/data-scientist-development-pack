@@ -2,7 +2,7 @@
   "name": "data-scientist-development-pack",
   "displayName": "Data Scientist Development Pack",
   "description": "Popular Visual Studio Code extensions for Data Scientist",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "day253",
   "license": "MIT",
   "repository": {
@@ -25,6 +25,7 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "ms-python.black-formatter",
     "ms-python.isort",
     "ms-python.python",
     "ms-toolsai.datawrangler",

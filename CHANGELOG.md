@@ -1,3 +1,10 @@
+## [1.0.1] - 2024-12-26
+
+### Changed
+- Removed child extensions.
+- Removed Black Formatter extension for code formatting.
+- Used Remote Development extension pack instead of individual Remote - SSH and Remote - WSL extensions.
+
 ## [1.0.0] - 2024-12-26
 
 ### Added

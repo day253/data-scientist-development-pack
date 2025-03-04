@@ -10,15 +10,26 @@
 
 # Data Scientist Development Pack
 
-This extension pack packages some of the most popular (and some of my favorite) Python/Jupyter extensions.
+This extension pack provides a comprehensive development environment for data scientists, supporting Python, C++, Go, and build tools. Perfect for data science, machine learning, and high-performance computing projects.
 
 ## Extensions Included
 
+### Python Development
 * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, Data Science (with Jupyter), PySpark and more.
 * [Black Formatter](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter) - Code formatting using Black.
 * [isort](https://marketplace.visualstudio.com/items?itemName=ms-python.isort) - Import sorting using isort.
 * [Data Wrangler](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler) - Data cleaning and preparation tool.
 * [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - Jupyter notebook support.
+
+### C++ Development
+* [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - C/C++ IntelliSense, debugging, and code browsing.
+* [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake) - CMake language support.
+* [CMake Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools) - Extended CMake support in Visual Studio Code.
+
+### Go Development
+* [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go) - Rich Go language support with IntelliSense, code navigation, and more.
+
+### General Tools
 * [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) - Remote development.
 * [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML language support.
 * [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml) - TOML language support.

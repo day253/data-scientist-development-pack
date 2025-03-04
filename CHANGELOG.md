@@ -1,3 +1,11 @@
+## [1.2.0] - 2024-03-26
+
+### Added
+- C/C++ extension for C++ development support
+- Go extension for Go language support
+- CMake extension for CMake language support and tools
+- CMake Tools for building, debugging and testing
+
 ## [1.0.3] - 2024-12-26
 
 ### Added

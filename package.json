@@ -5,6 +5,11 @@
   "version": "1.0.3",
   "publisher": "day253",
   "license": "MIT",
+  "scripts": {
+    "login": "vsce login day253",
+    "tool": "npm install -g @vscode/vsce",
+    "publish": "vsce package && vsce publish minor"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/day253/data-scientist-development-pack"
@@ -17,6 +22,8 @@
     "vscode": "^1.62.0"
   },
   "keywords": [
+    "c++",
+    "golang",
     "jupyter",
     "python",
     "remote"
@@ -25,14 +32,18 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "golang.go",
     "ms-python.black-formatter",
     "ms-python.isort",
     "ms-python.python",
     "ms-toolsai.datawrangler",
     "ms-toolsai.jupyter",
     "ms-vscode-remote.vscode-remote-extensionpack",
+    "ms-vscode.cmake-tools",
+    "ms-vscode.cpptools",
     "redhat.vscode-yaml",
     "tamasfe.even-better-toml",
+    "twxs.cmake",
     "tyriar.sort-lines"
   ]
 }
